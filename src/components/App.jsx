@@ -7,6 +7,7 @@ import Cast from './Cast';
 import Reviews from './Reviews';
 import Movie from 'pages/Movies';
 
+// 1
 const API_KEY = '75c24a83ea1b0d719afcd7ae1388bd28';
 
 const StyledLink = styled(NavLink)`

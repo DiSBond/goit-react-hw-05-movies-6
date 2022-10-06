@@ -2,7 +2,7 @@
   "name": "goit-react-hw-05-movie",
   "version": "0.1.0",
   "private": false,
-  "homepage": "hhttps://disbond.github.io/goit-react-hw-05-movie/",
+  "homepage": "https://disbond.github.io/goit-react-hw-05-movie/",
   "dependencies": {
     "@emotion/css": "^11.10.0",
     "@emotion/react": "^11.10.4",
